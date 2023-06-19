@@ -1,4 +1,4 @@
-# React Project
+# Insure-landing-page
 
 This repository contains a React project that showcases a non interactive web application built using the React JavaScript library.
 
