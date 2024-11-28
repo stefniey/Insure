@@ -23,7 +23,7 @@ Insure Landing Page is a static website designed to showcase an insurance compan
 ## Project Structure
 Here's an overview of the folder structure:
 ```
-insure-landing-page/
+insure/
 ├── src/
 │   ├── components/
 │   ├── assets/
@@ -39,8 +39,8 @@ insure-landing-page/
 
 - **Clone the repository**:
   ```bash
-  git clone https://github.com/stefniey/insure-landing-page.git
-  cd insure-landing-page
+  git clone https://github.com/stefniey/insure.git
+  cd insure
   ```
 
 - **Install dependencies**:
